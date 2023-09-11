@@ -1,0 +1,8 @@
+import time 
+
+print("dfghjk")
+text = str(input())
+print("fghjkl;")
+local_time = float(input())
+time.sleep(local_time)
+print(text)

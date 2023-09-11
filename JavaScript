@@ -1,0 +1,81 @@
+// const time = new Date().getHours();
+// let hi;
+
+// if (time < 6) {
+//   hi = "Чё ты не спишь? Шучу"
+// } else if (time < 12) {
+//   hi = "Доброе утро";
+// } else if (time < 18) {
+//   hi = "Добрый день";
+// } else {
+//   hi = "Добрый вечер";
+// }
+
+// let day;
+// switch (new Date().getDay()) {
+//   case 0:
+//     day = "Воскресенье";
+//     break;
+//   case 1:
+//     day = "Понедельник";
+//     break;
+//   case 2:
+//     day = "Вторник";
+//     break;
+//   case 3:
+//     day = "Среда";
+//     break;
+//   case 4:
+//     day = "Четверг";
+//     break;
+//   case 5:
+//     day = "Пятница";
+//     break;
+//   case 6:
+//     day = "Суббота";
+//     break;
+// }
+
+// alert(`ЭТО БЕТА ВЕРСИЯ САЙТА. +${hi}! Уже ${day}.`);
+
+  function checkCode() {
+  let enteredCode = document.getElementById("codeInput").value;
+  if (enteredCode === "bKh976W8R") {
+      alert("Вы очень внимательны!");
+  } else {
+      alert("Неверный код. Попробуйте еще раз.");
+  }
+  }
+
+  function eng () {
+    document.getElementById("demo").innerHTML = '<i>Space</i> -  is a boundless spatial region that surrounds our planet Earth and contains a huge variety of celestial objects, including stars, planets, galaxies, asteroids, comets and many others. It is an incredibly diverse and mysterious environment that causes endless admiration and a thirst for knowledge in a person. The study of space and its mysteries is one of the most exciting areas of research. It allows us to expand our knowledge about the Universe, its origin, structure and development. Observations with space telescopes and missions, as well as spacecraft, allow us to look at distant galaxies and understand how stars and planets are formed. Space is also an incredibly hostile and challenging environment. Vacuum, cosmic radiation, microgravity and other factors create challenges for space travel and exploration. However, thanks to scientific and technological advances, we continue to expand the boundaries of human knowledge and travel far beyond our planet. The cosmos inspires us not only scientifically but also culturally. It serves as an inspiration for many fantastic works and visual art, stimulating our imagination and the pursuit of new horizons.<br>Space not only serves as a source of scientific discoveries and knowledge but also inspires us to engage in philosophical contemplations about our place in the Universe. We ponder questions about the meaning of life, the potential existence of other civilizations in space, and what the future may hold for humanity. Furthermore, space exploration holds practical significance: the development of new technologies for space missions contributes to the advancement of our technological infrastructure and scientific discoveries that can find applications not only in space but also on Earth.<br>Space embodies the human drive for exploration and the quest to uncover uncharted horizons. It inspires us to dream, explore, and push the boundaries of human potential. With each new discovery and mission into space, we come closer to unraveling the deepest mysteries of the Universe and understanding our role within it.'
+  }
+
+  function engone () {
+    document.getElementById("demo1").innerHTML = '<i>The Infinite Universe</i> - is a concept that suggests the existence of an infinite number of universes, including our own. This idea arose within the framework of scientific and philosophical reflections on the nature of the cosmos and its possible forms of organization. The Boundless Universe hypothesis is based on the assumption that our Universe, which we observe, is one of many, many parallel or possibly even unconnected universes. These universes may differ in their fundamental properties, such as physical constants, laws of nature, or initial conditions. There are several theories and models that try to explain and describe the Boundless Universe. One of them is the theory of multiple universes, or "Multiverse theory". According to this theory, every possible combination of physical properties and laws could be realized in a separate universe. In this case, the Infinite Universe is the totality of all possible universes, covering all options and their combinations. Another concept related to the Infinite Universe is the theory of inflation. According to this theory, during the early development of our universe, there was a rapid expansion of space-time that could lead to the formation of many "bubbles" or regions with different physical properties. Each of these regions could be its own universe within the Infinite Universe. It is important to note that the Boundless Universe is still a hypothesis and has no direct experimental evidence. However, it continues to be of interest to scientists and philosophers, and research in this area continues. The Boundless Universe opens up a wide range of possibilities for thinking about many other civilizations, different forms of life, and even alternative versions of ourselves. This concept raises many questions about the nature of reality and our place in it, and exploration of the Boundless Universe helps us expand our understanding of the world around us and its possible manifestations.'
+  }
+
+  function engtwo () {
+    document.getElementById("demo2").innerHTML = "<i>A black hole</i> - is a region of outer space in which the gravitational pull is so strong that nothing, not even light, can escape it. This is due to the clotting of the mass into a very small volume. Black holes form as a result of the gravitational collapse of a star's mass when the star exhausts its nuclear reactions and cannot resist its own gravity. The mass of a black hole is concentrated at a point called a singularity, which has infinite density and infinite gravitational pull. The event horizon is the boundary of a black hole that nothing can cross, including light. Inside the event horizon, the gravitational attraction is so strong that no known physical laws can describe the events occurring there. Black holes can have different masses. There are also supermassive black holes at the centers of galaxies. It is assumed that they arise from the accretion of matter and the merger of smaller black holes. Supermassive black holes are considered key components of galactic nuclei and play an important role in the evolution of galaxies. The study of black holes is an active area of research in astrophysics. Astronomers study their properties, interactions with the environment, the processes of accretion and ejection of matter, as well as their influence on the evolution of galaxies. One way to study black holes is to observe X-ray and gravitational radiation, and to model black holes with computer simulations."
+  }
+
+  function engthree () {
+    document.getElementById("demo3").innerHTML = "<i>The Milky Way is the galaxy in which our solar system is located. This galaxy is one of many that make up the Universe. Let's take a closer look at the Milky Way: <br>1. Structure and dimensions: The Milky Way is a spiral galaxy. It consists of a huge number of stars, gas, dust and dark matter. The diameter of the Milky Way is approximately 100,000 light-years, and the thickness in some places can be up to 1,000 light-years.<br>2. Stars and Solar System: Our Solar System lies on the outskirts of the Milky Way, approximately 27,000 light-years from its center. The Milky Way contains billions and billions of stars, including the sun, around which planets, including the Earth, orbit.<br>3. Spiral Structure: The Milky Way has a characteristic spiral structure with stars and gas clouds distributed in spiral arms. Our Solar System lies in one of these arms, called the Orion Arm.<br>4. Black Holes and the Galactic Center: At the center of the Milky Way is a supermassive black hole known as Sagittarius A*. This black hole has a mass equivalent to several million solar masses. Many stars and gases rotating in orbits were discovered around it.<br>5. Dark Matter and Dark Energy: Most of the mass of the Milky Way consists of dark matter and dark energy, which remain a mystery to scientists. Dark matter is invisible matter that does not emit light and does not interact with ordinary matter, but has a gravitational effect. Dark energy, on the other hand, affects the expansion of the Universe.<br>The Milky Way is a fascinating subject of research in astronomy, and its study helps us better understand the origin, structure and future of our galaxy and the entire Universe."
+  }
+
+  function engfour (){
+    document.getElementById("demo4").innerHTML = "<i>The search life</i> - in space is one of the most fascinating research areas in modern astronomy and space science. The answer to the question of whether there is life beyond the Earth is one of the most fundamental mysteries that occupies the minds of scientists, philosophers and the public in general. It is important to understand that the search for life in space takes place at different levels and using a variety of methods:<br>1. Exploration of the solar system: Mars, Europa (Jupiter's moon), Titan (Saturn's moon) and other space objects are being explored using rovers, orbiters and potential missions. The search for traces of water, organic compounds and other signs of suitable living conditions is a key goal. <br>2. Exoplanets: With the advent of telescopes capable of detecting planets around other stars, scientists are paying special attention to exoplanets located in the 'blue zone' - the area around the star where the temperature allows the existence of water in a liquid state. Searching for chemical signs, such as atmospheric gases, can also give us clues about the presence of life. <br>3. Searching for Signals of Intelligent Life: Searching for radio signals from space is an active way to try to discover other civilizations that can use radio wave communication, such as the SETI project (Search for Intelligent Civilizations in the Universe)."
+  }
+
+  function engfive () {
+    document.getElementById("demo5").innerHTML = '<i>Space travel</i> - is exploration and travel into space, outside the Earth. They are unique missions that allow a person to explore other planets, moons, asteroids and the depths of space. The history of space travel began in the second half of the 20th century. The first artificial earth satellite was Sputnik 1, launched by the Soviet Union in 1957. This historic moment ushered in the era of the space race between the USSR and the USA, which later led to the first manned space flights. In 1961, Yuri Gagarin became the first person to travel in space on the Vostok 1 spacecraft. After that, numerous space missions were carried out, including manned flights to the moon and exploration of other planets and their satellites. One of the most significant missions in the history of space travel was the Apollo 11 mission, during which, in 1969, Neil Armstrong and Edwin Aldrin became the first people to set foot on the surface of the moon. This event ushered in a new era of exploration of lunar surfaces and preparations for travel to other planets. Today, space travel continues. The International Space Station (ISS) is a permanently inhabited laboratory in space where astronauts conduct experiments in zero gravity and study the effects of space on organisms. In addition, modern spacecraft and rovers explore the surface of Mars and other planets, go to asteroids, and even study the distant regions of our galaxy using telescopes in space. Space travel is of great importance in expanding our understanding of the universe and finding answers to basic questions about the origin of life, the possibility of other civilizations and the future of mankind in space. They also offer us technological and scientific breakthroughs that can be applied on Earth in various fields, from medicine to energy and communications. Space travel is an important step in the exploration and understanding of our place in the universe, and it continues to inspire and amaze people around the world.'
+  }
+
+  function toggleSideNav() {
+    var sidenav = document.getElementById("mySidenav");
+    if (sidenav.style.left === "0px") {
+      sidenav.style.left = "-163px";
+    } else {
+      sidenav.style.left = "0px";
+    }
+  }

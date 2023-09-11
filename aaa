@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!--Добавить-->
+  <link rel="icon" type="image/x-icon" href="космос1.jpg">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ავეჯის მაღაზია</title>
+
+<style>
+  * {
+    font-family: verdana sans-serif;
+  }
+
+  header {
+    text-align: center;
+  }
+</style>
+
+</head>
+<body>
+  <h1>ეს არის ავეჯის მაღაზია</h1> 
+  <h2>ყველაფერი, რაც გამოსახული იქნება, გაკეთდა რეალურ მომხმარებლებთან. ეს არის მაგალითები.</h2> 
+  <h2>თუ მოგეწონებათ, გთხოვთ, დაუკავშირდეთ ამ ტელეფონურ ნომერზე: +995 579-70-68-59 ან დაწერეთ ამ ელეკტრონულ ფოსტაზე: <a href="mailto:xvicha1824@gmail.com">xvicha1824@gmail.com</a></h2>
+  <h2>ჩვენი <b>ოფიციალური</b><a href="//www.facebook.com/groups/307987391549056/"> Facebook</a></h2>
+</body>
+</html>
